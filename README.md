@@ -257,7 +257,7 @@ The analysis and dashboard are based on the dataset and requirements included wi
 
 ## 👤 Author
 
-**Barani Dharan**
+**Baranidharan R**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel | Data Visualization
 
